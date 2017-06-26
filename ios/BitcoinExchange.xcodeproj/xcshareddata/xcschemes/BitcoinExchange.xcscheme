@@ -29,9 +29,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-               BuildableName = "D3InReactNative.app"
-               BlueprintName = "D3InReactNative"
-               ReferencedContainer = "container:D3InReactNative.xcodeproj">
+               BuildableName = "BitcoinExchange.app"
+               BlueprintName = "BitcoinExchange"
+               ReferencedContainer = "container:BitcoinExchange.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
          <BuildActionEntry
@@ -43,9 +43,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "00E356ED1AD99517003FC87E"
-               BuildableName = "D3InReactNativeTests.xctest"
-               BlueprintName = "D3InReactNativeTests"
-               ReferencedContainer = "container:D3InReactNative.xcodeproj">
+               BuildableName = "BitcoinExchangeTests.xctest"
+               BlueprintName = "BitcoinExchangeTests"
+               ReferencedContainer = "container:BitcoinExchange.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -61,9 +61,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "00E356ED1AD99517003FC87E"
-               BuildableName = "D3InReactNativeTests.xctest"
-               BlueprintName = "D3InReactNativeTests"
-               ReferencedContainer = "container:D3InReactNative.xcodeproj">
+               BuildableName = "BitcoinExchangeTests.xctest"
+               BlueprintName = "BitcoinExchangeTests"
+               ReferencedContainer = "container:BitcoinExchange.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -71,9 +71,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "D3InReactNative.app"
-            BlueprintName = "D3InReactNative"
-            ReferencedContainer = "container:D3InReactNative.xcodeproj">
+            BuildableName = "BitcoinExchange.app"
+            BlueprintName = "BitcoinExchange"
+            ReferencedContainer = "container:BitcoinExchange.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -94,9 +94,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "D3InReactNative.app"
-            BlueprintName = "D3InReactNative"
-            ReferencedContainer = "container:D3InReactNative.xcodeproj">
+            BuildableName = "BitcoinExchange.app"
+            BlueprintName = "BitcoinExchange"
+            ReferencedContainer = "container:BitcoinExchange.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -113,9 +113,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "D3InReactNative.app"
-            BlueprintName = "D3InReactNative"
-            ReferencedContainer = "container:D3InReactNative.xcodeproj">
+            BuildableName = "BitcoinExchange.app"
+            BlueprintName = "BitcoinExchange"
+            ReferencedContainer = "container:BitcoinExchange.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

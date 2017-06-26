@@ -1,4 +1,4 @@
-package com.d3inreactnative;
+package com.bitcoinexchange;
 
 import android.app.Application;
 

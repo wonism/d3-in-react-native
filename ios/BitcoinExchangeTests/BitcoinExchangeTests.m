@@ -16,11 +16,11 @@
 #define TIMEOUT_SECONDS 600
 #define TEXT_TO_LOOK_FOR @"Welcome to React Native!"
 
-@interface D3InReactNativeTests : XCTestCase
+@interface BitcoinExchangeTests : XCTestCase
 
 @end
 
-@implementation D3InReactNativeTests
+@implementation BitcoinExchangeTests
 
 - (BOOL)findSubviewInView:(UIView *)view matching:(BOOL(^)(UIView *view))test
 {

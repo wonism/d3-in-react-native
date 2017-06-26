@@ -29,9 +29,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "2D02E47A1E0B4A5D006451C7"
-               BuildableName = "D3InReactNative-tvOS.app"
-               BlueprintName = "D3InReactNative-tvOS"
-               ReferencedContainer = "container:D3InReactNative.xcodeproj">
+               BuildableName = "BitcoinExchange-tvOS.app"
+               BlueprintName = "BitcoinExchange-tvOS"
+               ReferencedContainer = "container:BitcoinExchange.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
          <BuildActionEntry
@@ -43,9 +43,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "2D02E48F1E0B4A5D006451C7"
-               BuildableName = "D3InReactNative-tvOSTests.xctest"
-               BlueprintName = "D3InReactNative-tvOSTests"
-               ReferencedContainer = "container:D3InReactNative.xcodeproj">
+               BuildableName = "BitcoinExchange-tvOSTests.xctest"
+               BlueprintName = "BitcoinExchange-tvOSTests"
+               ReferencedContainer = "container:BitcoinExchange.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -61,9 +61,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "2D02E48F1E0B4A5D006451C7"
-               BuildableName = "D3InReactNative-tvOSTests.xctest"
-               BlueprintName = "D3InReactNative-tvOSTests"
-               ReferencedContainer = "container:D3InReactNative.xcodeproj">
+               BuildableName = "BitcoinExchange-tvOSTests.xctest"
+               BlueprintName = "BitcoinExchange-tvOSTests"
+               ReferencedContainer = "container:BitcoinExchange.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -71,9 +71,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "2D02E47A1E0B4A5D006451C7"
-            BuildableName = "D3InReactNative-tvOS.app"
-            BlueprintName = "D3InReactNative-tvOS"
-            ReferencedContainer = "container:D3InReactNative.xcodeproj">
+            BuildableName = "BitcoinExchange-tvOS.app"
+            BlueprintName = "BitcoinExchange-tvOS"
+            ReferencedContainer = "container:BitcoinExchange.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -94,9 +94,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "2D02E47A1E0B4A5D006451C7"
-            BuildableName = "D3InReactNative-tvOS.app"
-            BlueprintName = "D3InReactNative-tvOS"
-            ReferencedContainer = "container:D3InReactNative.xcodeproj">
+            BuildableName = "BitcoinExchange-tvOS.app"
+            BlueprintName = "BitcoinExchange-tvOS"
+            ReferencedContainer = "container:BitcoinExchange.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -113,9 +113,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "2D02E47A1E0B4A5D006451C7"
-            BuildableName = "D3InReactNative-tvOS.app"
-            BlueprintName = "D3InReactNative-tvOS"
-            ReferencedContainer = "container:D3InReactNative.xcodeproj">
+            BuildableName = "BitcoinExchange-tvOS.app"
+            BlueprintName = "BitcoinExchange-tvOS"
+            ReferencedContainer = "container:BitcoinExchange.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

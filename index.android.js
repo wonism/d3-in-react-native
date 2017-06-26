@@ -12,7 +12,7 @@ import {
   View
 } from 'react-native';
 
-export default class D3InReactNative extends Component {
+export default class BitcoinExchange extends Component {
   render() {
     return (
       <View style={styles.container}>
@@ -50,4 +50,4 @@ const styles = StyleSheet.create({
   },
 });
 
-AppRegistry.registerComponent('D3InReactNative', () => D3InReactNative);
+AppRegistry.registerComponent('BitcoinExchange', () => BitcoinExchange);

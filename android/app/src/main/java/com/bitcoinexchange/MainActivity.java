@@ -1,4 +1,4 @@
-package com.d3inreactnative;
+package com.bitcoinexchange;
 
 import com.facebook.react.ReactActivity;
 
@@ -10,6 +10,6 @@ public class MainActivity extends ReactActivity {
      */
     @Override
     protected String getMainComponentName() {
-        return "D3InReactNative";
+        return "BitcoinExchange";
     }
 }
